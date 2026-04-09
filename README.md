@@ -99,5 +99,5 @@ The script prints:
 ---
 
 ## Author
-
+Clark Brake
 Developed as part of an optical systems and sensor fusion project.
